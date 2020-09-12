@@ -8,11 +8,11 @@ is intended for you to replace with your own text. This text is indicated in
 
 A style guide provides project contributors with general guidelines for writing
 project documentation. The overall goal of a style guide is to ensure quality
-and consistency throughout the project’s documentation, which is especially
+and consistency throughout the project's documentation, which is especially
 important if different authors are contributing to the documentation over time.
 
 A style guide can provide early guidance to new contributors as they make
-decisions related to your project’s documentation. Contributors often have to
+decisions related to your project's documentation. Contributors often have to
 make subjective decisions about the documentation, such as:
 
 - Which style guide your project will defer to as its default style guide
@@ -24,14 +24,14 @@ make subjective decisions about the documentation, such as:
   as language usage disputes that seem to arise periodically within the
   community
 
-A style guide provides your project’s answers to these questions and ensures
+A style guide provides your project's answers to these questions and ensures
 that all of the contributors are working from the same common understanding.
 
 ## How to make a style guide scale with your project
 
-A project’s style guide usually starts out as a stub at the beginning of a
+A project's style guide usually starts out as a stub at the beginning of a
 project. For example, it might simply indicate which style guide is your
-project’s default guide, such as the Google Developer’s style guide or the
+project's default guide, such as the Google Developer's style guide or the
 Microsoft Manual of Style. It might link to specific elements from the default
 guide that are most relevant to your project or point out any exceptions to the
 default guide.
@@ -46,8 +46,8 @@ contributor joins the project.
 
 However, keep in mind that some teams consistently struggle to maintain a style
 guide over time. The guiding principle here is that a small amount of work up
-front can save a lot more work later. It’s much easier to set your standards in
-a style guide early in your project’s life cycle than it is to retroactively
+front can save a lot more work later. It's much easier to set your standards in
+a style guide early in your project's life cycle than it is to retroactively
 clean up your documentation later when the project is more mature. With small
 but regular updates, your style guide can evolve alongside your project. It will
 help your contributors get up to speed quickly and start writing high quality
@@ -66,7 +66,7 @@ guide after style guide reviews.
 In this section, you'll briefly introduce the purpose of the style guide and how
 you intend to use this style guide in your project. Feel free to adapt this
 content. If desired, you can briefly elaborate on the goals or mission of your
-project’s documentation.
+project's documentation.
 
 ### About the "Intended audience and scope" section
 
@@ -92,7 +92,7 @@ them or include them here.
 ## About the "Glossary of preferred terms" section
 
 Every project has its own unique terms and buzzwords and this glossary can help
-you record your project’s preferred terms. This word list provides a list of
+you record your project's preferred terms. This word list provides a list of
 specific terms that are either common word choice problems or which are unique
 to your project. As a word of caution, try to minimize jargon and buzzwords.
 Also, avoid creating too many project-specific terms. Where possible, use the
@@ -102,14 +102,15 @@ inherit or defer to term definitions from a more authoritative glossary source.
 This section includes a table to highlight or call out any terms that are unique
 or which conflict with your default style guide. For example, the Google
 Developer's Guide uses "open source" but our project prefers "open-source" when
-used as a modifier, as in "open-source software."
+used as an adjective, as in "open-source software."
 
 ## About the "Topic types and templates" section
 
-Depending on the type of project you’re creating, some of the Good Docs
-templates will be more relevant than others. In this section, you can link to
-the templates you have adopted for your project. You can also explain when
-contributors should use these templates.
+The Good Docs project provides templates for various types of topics that you
+can adopt in your project. Depending on the type of project you're creating,
+some of the Good Docs templates will be more relevant than others. In this
+section, you can link to the templates you have adopted for your project. You
+can also explain when contributors should use these templates.
 
 ## About the "General writing tips" section
 
@@ -130,13 +131,18 @@ bias-free writing or add some of your own general guidelines.
 
 This section is optional. [Linters](https://www.writethedocs.org/guide/tools/testing/#style-guide-checking-and-linting)
 are tools that analyze text content to flag common mistakes such as stylistic
-errors and suspicious constructs. An example of a linter would be a tool like
-Grammarly that processes your text and provides suggestions as you write to
-improve the spelling and grammatical structure of the text.
+errors and suspicious constructs. They are helpful for enforcing your style
+guide by checking constributions for style guide consistency. An example of a
+linter would be a tool like Grammarly that processes your text and provides
+suggestions as you write to improve the spelling and grammatical structure of
+the text.
 
-Linters can be used during the editorial process within an editor and as a
-post-processing test of the content when the document is pushed into a revision
-management system as part of an automated continuous integration (CI) cycle.
+Linters can be used at two different points when creating documentation:
+- **During the editorial process** - Typically used within a text editor, a
+  linter can check for style consistency while composing documentation.
+- **As a post-processing test** - When the content is pushed into a revision
+  management system as part of an automated continuous integration (CI) cycle,
+  a linter can evaluate text for style consistency.
 
 If you want to take your style guide to the next level, you could adopt a linter
 to enforce your style guide and empower your content creators to make better
@@ -147,6 +153,8 @@ For resources and examples of linters, see:
 - [The `linter-google-styleguide` package for the Atom text editor](https://atom.io/packages/linter-google-styleguide)
 - A tool like [Vale](https://www.writethedocs.org/guide/tools/testing/#vale),
   which can automate [several popular styles](https://github.com/errata-ai/styles)
+- The [Alex](https://alexjs.com/) linter can check for insensitive and
+  inconsiderate writing.
 
 ## About the "How the style guide is updated" section
 
@@ -161,7 +169,7 @@ If this section is small enough, you can combine it with the following sections.
 ## About the "Revision history" section
 
 This section is optional. You can use this section to provide a changelog or
-decision log of changes to your project’s style guide. You can also link out to
+decision log of changes to your project's style guide. You can also link out to
 other project documents that contain your decision log. You could also use this
 section to provide guidelines about how to request changes to the style guide
 and outline how often decisions can be revisited (such as after a year).
@@ -178,6 +186,6 @@ revisions, add a decimal, such as 1.1.
 
 This section is optional. Various project managers, sponsors, and teams make a
 lot of decisions while working on a project long-term. A decision log can track
-the decisions you’ve agreed upon. A decision log lists the key decisions made on
+the decisions you've agreed upon. A decision log lists the key decisions made on
 the project. If your project has a separate decision log, you can link to it or
 provide one here.
