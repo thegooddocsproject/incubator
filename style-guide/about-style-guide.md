@@ -63,7 +63,7 @@ guide after style guide reviews.
 
 ### About the "Introduction" section
 
-In this section, you'll briefly introduce the purpose of the style guide and how
+In this section, briefly introduce the purpose of the style guide and how
 you intend to use this style guide in your project. Feel free to adapt this
 content. If desired, you can briefly elaborate on the goals or mission of your
 project's documentation.
@@ -99,7 +99,7 @@ Also, avoid creating too many project-specific terms. Where possible, use the
 terms that are standard for your industry to avoid confusion. Ideally, you can
 inherit or defer to term definitions from a more authoritative glossary source.
 
-This section includes a table to highlight or call out any terms that are unique
+This section includes a table to highlight terms that are unique to your project,
 or which conflict with your default style guide. For example, the Google
 Developer's Guide uses "open source" but our project prefers "open-source" when
 used as an adjective, as in "open-source software."
