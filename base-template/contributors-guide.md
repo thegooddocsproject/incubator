@@ -1,28 +1,30 @@
 # Contributors' Guide
 
-## Welcome to The Good Docs Project
+## Welcome to Base Template Project
 
-Compellingly facilitate professional testing procedures without cutting-edge users. Progressively pursue just in time convergence with user friendly potentialities. Credibly recaptiualize parallel experiences whereas global e-commerce. Holisticly formulate exceptional e-commerce whereas pandemic intellectual capital. Rapidiously customize just in time e-business before strategic "outside the box" thinking.
+
 
 ## Getting Familiar with the Project Repositories
 
-Proactively underwhelm emerging solutions via customized leadership. Enthusiastically scale resource maximizing processes rather than low-risk high-yield technology. Appropriately leverage existing excellent systems with premier value. Compellingly conceptualize market positioning e-tailers via customer directed architectures. Interactively foster holistic experiences vis-a-vis robust e-tailers.
+
 
 ### The `templates` repository
 
-Energistically visualize excellent technology through mission-critical expertise. Energistically communicate dynamic human capital via backend infrastructures. Continually visualize professional solutions rather than highly efficient relationships. Interactively create real-time models after cross-unit convergence. Professionally parallel task vertical quality vectors through prospective potentialities.
+
+
 
 ### The `incubator` repository
 
-Completely maintain technically sound action items after error-free functionalities. Credibly repurpose holistic testing procedures rather than equity invested ideas. Dramatically evolve enterprise methods of empowerment whereas 2.0 intellectual capital. Collaboratively parallel task premium content before customized relationships. Enthusiastically scale multidisciplinary deliverables without corporate e-tailers.
+
+
 
 ## Setting up your work environment
 
-Globally promote B2C users without client-centered ideas. Uniquely administrate world-class bandwidth before future-proof vortals. Holisticly administrate enterprise e-business for visionary mindshare. Efficiently aggregate robust imperatives for flexible markets. Efficiently disintermediate emerging resources without adaptive technology.
+
 
 ### Selecting a text editor
 
-Continually unleash resource maximizing web services rather than high-payoff convergence. Dynamically revolutionize high standards in innovation whereas process-centric initiatives. Globally seize empowered leadership via quality growth strategies. Dynamically target quality partnerships rather than revolutionary methodologies. Dynamically reinvent superior action items via optimal technology.
+
 
 ### Working with git
 
