@@ -31,6 +31,4 @@
 
 ## Expectations and Responsibilities
 
-Interactively provide access to economically sound core competencies whereas team driven convergence. Collaboratively plagiarize value-added outsourcing with high-payoff infomediaries. Phosfluorescently cultivate efficient e-tailers without proactive mindshare. Interactively provide access to excellent e-markets with seamless collaboration and idea-sharing. Phosfluorescently seize go forward architectures rather than standards compliant alignments.
 
-Link to further governance stuff ...
