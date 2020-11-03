@@ -2,20 +2,18 @@
 <!-- Describe the title of your article by replacing "Base Template" with the page name you want to publish to. -->
 # Base template
 
-## Prerequisites
-
 ## Overview
+{Explain how to use the Base Template to create any other template that you require.}
 
-**Keywords:** Optionally add comma-separated keywords.
-
-## Content 1
-
-### Subsection 1
-
-## Content 2
+## Prerequisites
+{Prerequisites to using the Base Template}
 
 ## Reference
+{Briefly guide the user on how to decide on the type of template to be created.}
+
+## Step-by-step guide
+{Steps on how to create any other template using the Base Template}
+
 
 ## Examples
-
-## Glossary
+{a few good examples of existing good templates.}

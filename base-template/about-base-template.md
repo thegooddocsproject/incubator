@@ -1,45 +1,65 @@
-# The Base Template
+# About Base Template
 
-## How do I create a new template?
+## Introduction
 
-Monotonectally engage orthogonal results vis-a-vis premier resources. Efficiently brand leveraged supply chains and interdependent best practices. Conveniently engineer resource-leveling opportunities without process-centric growth strategies. Appropriately implement intuitive materials without sticky scenarios. Rapidiously generate excellent channels before client-focused innovation.
+It's important to document repetitive or iterative processes that you encounter in your routine work. The best documentation uses a formal structure with specified standards, and adheres to predefined style guides. Doing this can sometimes be tedious, futile, and time consuming, so documentation can be random, ad hoc, and of inferior quality and a poor standard. If the documentation is poor quality to begin with, and is frequently edited by random different users, the quality and integrity can become even worse.
 
-Synergistically optimize professional processes after goal-oriented information. Monotonectally leverage existing interdependent expertise before clicks-and-mortar portals. Continually parallel task visionary models before exceptional sources. Monotonectally procrastinate team building interfaces after team building "outside the box" thinking. Holisticly mesh cross-unit bandwidth with installed base methods of empowerment.
+Documentation must maintain consistency and integrity at all times. This is made easier by using a template for each documentation type. A good template helps you simplify the process of creating any required document. It can save you time and effort, while ensuring consistency, clarity, and uniformity across your documentation suite.
 
-Holisticly enhance optimal schemas rather than cost effective architectures. Authoritatively impact covalent schemas through go forward solutions. Proactively optimize B2C mindshare without flexible imperatives. Seamlessly visualize next-generation niches for world-class channels. Collaboratively whiteboard web-enabled outsourcing without exceptional markets.
+The base template goes one step further, in that it helps you create any template for a given document type. It gives you direction in building the required template for a specific use case.
 
-Dramatically innovate viral deliverables without next-generation solutions. Dramatically strategize goal-oriented opportunities and interdependent infomediaries. Synergistically orchestrate functional experiences whereas global services. Synergistically revolutionize wireless value after high standards in relationships. Professionally deliver end-to-end methodologies rather than principle-centered platforms.
+Use the base template to create a uniform, regulated template for producing similarly structured documents for a certain process. It's also useful if you are making process changes that call for identical repetitive changes to documents that are similar in structure.
 
-Objectively fabricate efficient deliverables and tactical human capital. Competently synthesize B2B systems vis-a-vis intuitive internal or "organic" sources. Synergistically orchestrate orthogonal markets rather than high-quality benefits. Credibly innovate user-centric infomediaries and strategic bandwidth. Holisticly generate economically sound value via process-centric infomediaries.
+The base template guides you through the steps to create a functional template that can be reused, adhered to, and followed consistently throughout.
 
-## Content of your template
+Do not use the base template to arrive at the document type you need, use the other content in this repository for that purpose. It is also not a substitute for any other template in this collection.
 
-### About the "Prerequisites" section
+## Prerequisites
 
-Professionally communicate high standards in total linkage via clicks-and-mortar relationships. Interactively predominate enabled metrics before distinctive best practices. Distinctively visualize parallel networks before cutting-edge partnerships. Uniquely synthesize multidisciplinary quality vectors rather than multidisciplinary scenarios. Conveniently drive team driven products through empowered alignments.
+To make the best use of this base template, you need a working knowledge of:
 
-### About the "Overview" section
+- GitHub to download, edit, and use the base template.
+- Markdown to create and edit the base template to suit your requirements.
+- Different documentation types to identify if you need to create a new template or edit an existing one.
+- Technical writing to produce a well-written document that includes the relevant reference aspects.
 
-Professionally redefine interactive deliverables whereas client-based e-commerce. Uniquely impact competitive quality vectors after resource-leveling content. Competently repurpose economically sound value before strategic processes. Competently benchmark global action items rather than user friendly internal or "organic" sources. Continually plagiarize flexible e-business after strategic core competencies.
+## Who will need the base template
 
-### About the content
+The base template is for:
 
-Energistically embrace worldwide applications without customized growth strategies. Energistically embrace orthogonal convergence vis-a-vis global internal or "organic" sources. Dramatically transform leading-edge networks rather than client-based convergence. Credibly revolutionize web-enabled interfaces before strategic solutions. Authoritatively incubate economically sound e-business with equity invested outsourcing.
+- Internal users - those who are already working in the Good Docs Project (GDP)
+- External users - the community outside of the GDP
 
-### About the "Reference" section
+Who want to:
 
-Professionally cultivate emerging alignments through multimedia based initiatives. Dramatically administrate cross-media users rather than cooperative paradigms. Synergistically redefine long-term high-impact niches via cross functional relationships. Authoritatively whiteboard interactive "outside the box" thinking with dynamic supply chains. Assertively pontificate standardized applications before goal-oriented sources.
+- Create new templates that do not yet exist within GDP
+- Edit existing templates that require changes
 
-### About the "Examples" section
+## How do you know you need the base template
 
-Synergistically redefine fully tested "outside the box" thinking before excellent customer service. Completely predominate functional methodologies vis-a-vis corporate core competencies. Energistically underwhelm dynamic supply chains through client-centric materials. Assertively negotiate client-based deliverables after timely infrastructures. Competently productize wireless ROI without customized mindshare.
+The base template is useful when:
 
-### About the "Glossary" section
+- You have identified that the process or document type you are trying to create does not have an existing template in GDP
+- You need to make significant changes to an existing GDP template
+- You need to produce multiple, uniformly structured documents that are:
+  - Reusable, subject to iterative changes
+  - Sustainable, easily accessible, and maintainable
+  - Made available to the community freely
 
-Synergistically enhance multidisciplinary internal or "organic" sources whereas scalable quality vectors. Proactively productize team building scenarios without resource sucking alignments. Collaboratively syndicate market-driven vortals rather than market-driven catalysts for change. Quickly create team driven methods of empowerment vis-a-vis top-line metrics. Dramatically recaptiualize extensive opportunities rather than holistic ROI.
+## What will the base template cover
 
+The base template includes:
 
-## Further Reading
+- An overview of the template you are creating
+- Prerequisites, the minimum requirements for accessing or  making use of the template
+- Reference section, containing other relevant information
+- Procedures, step-by-step instructions to create your template
+- Examples, good examples of existing templates
 
-* If you are a first-time contributor to the Good Docs Project, read the Contributors' Guide
-* For more about the Information Architecture used within the Good Docs Project, read the Information Architecture Guide
+## Useful References
+
+- [List of existing GDP templates](https://github.com/thegooddocsproject/templates)
+- [Information Architecture guide](https://github.com/thegooddocsproject/incubator/tree/master/ia-guide)
+- [Glossary style guide](https://github.com/thegooddocsproject/glossaries)
+- [List of existing GDP templates](https://github.com/thegooddocsproject/templates)
+- [GDP governance](https://github.com/thegooddocsproject/governance)
