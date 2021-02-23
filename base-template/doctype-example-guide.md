@@ -4,10 +4,16 @@ This guide explains how to build a good example document for a specific `doctype
 
 The guide is designed to be read by a template author, someone who intends to create or improve a set of templates and guides for a `doctype`.
 
+{Template author tip:
+
+* Add [machine readable structured metadata](https://developers.google.com/search/docs/guides/sd-policies) to your doctype example.
+* Structured metadata helps search engines index pages appropriately, and facilitates content reuse.
+* Within this project we have adopted the [JSON-LD](http://json-ld.org/) format for structured metadata, [as recommended by Google](https://developers.google.com/search/docs/guides/intro-structured-data).
 <!--Machine readable schema.org structured metadata about this guide.-->
+``` json
 <script type="application/ld+json">
 {
-    "name": "Doctype example guide",
+    "name": "{Doctype} example",
     "description": "This guide explains how to build a good example document for a specific doctype, which aligns with the principles of The Good Docs Project.",
     "version": "0.1"
     "datePublished": "2021-02",
@@ -15,6 +21,8 @@ The guide is designed to be read by a template author, someone who intends to cr
     "audience": "doctype template author"
 }
 </script>
+```
+}
 
 **Version:** 0.1
 
